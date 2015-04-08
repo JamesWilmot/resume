@@ -12,10 +12,10 @@
 
 \usepackage{fontspec}
 
-
 \usepackage{hyperref}
 \usepackage{geometry}
 \usepackage[super]{nth}
+\usepackage{fonttable}
 
 \usepackage{tabto}
 
@@ -26,8 +26,8 @@
 
 \usepackage[compact]{titlesec}
 % Fonts
-%\usepackage[T1]{fontenc}
-%\usepackage[urw-garamond]{mathdesign}
+\usepackage[T1]{fontenc}
+\usepackage[urw-garamond]{mathdesign}
 
 %\titlespacing\section{0pt}{12pt plus 4pt minus 2pt}{-6pt plus 2pt minus 2pt}
 
@@ -86,31 +86,30 @@ bottom=0.3in
 \end{list}
 }
 
-\setmainfont[
-          Numbers={Proportional, OldStyle},
-          ItalicFont={Minion-Italics.otf},
-          BoldFont={Minion-Bold.otf},
-          Ligatures=TeX,
-          Scale=0.95,
-          SmallCapsFeatures={Letters=SmallCaps}
-          ]{Minion-Regular.otf}
+
+\fontspec [Path = fonts/,
+    UprightFont = icomoon.ttf,
+ ]
+{iconfont.ttf}
 
 \begin{document}
 
 \vspace{-1in}
-\input{sections/header.tex}
+%\input{sections/header.tex}
 
-%\oldstylenums{0123456789}
+%%\oldstylenums{0123456789}
 
-\input{sections/education.tex}
-\input{sections/employment.tex}
-\newpage
+%\input{sections/education.tex}
+%\input{sections/employment.tex}
+%\newpage
 
-\input{sections/contracts.tex}
-\input{sections/volunteering.tex}
-\input{sections/projects.tex}
-\input{sections/references.tex}
+%\input{sections/contracts.tex}
+%\input{sections/volunteering.tex}
+%\input{sections/projects.tex}
+%\input{sections/references.tex}
 
+%{\fontfamily{iconfont}\selectfont \char{eae4} }
+\fonttable{iconfont}
 
 % Footer
 \begin{center}
