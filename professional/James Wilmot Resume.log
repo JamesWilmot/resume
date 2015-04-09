@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2014.11.17)  9 APR 2015 19:45
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2014.11.17)  9 APR 2015 19:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -938,26 +938,47 @@ Overfull \hbox (1.72519pt too wide) in paragraph at lines 64--78
 [][] [] 
  []
 
+) (./sections/miscellaneous.tex
+Underfull \hbox (badness 10000) in paragraph at lines 9--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--16
+\EU1/Minion-Regular.otf(0)/m/sc/12 c#\EU1/Minion-Regular.otf(0)/m/n/12 , Minecr
+aft modding, electronics, mathematics, game
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--16
+
+ []
+
+
+Overfull \hbox (1.72519pt too wide) in paragraph at lines 8--30
+[] []
+ []
+
 ) (./sections/education.tex
 Overfull \hbox (1.72519pt too wide) in paragraph at lines 8--24
 [] []
  []
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 129.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 130.
  [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 129.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 130.
  (./James Wilmot Resume.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 129.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 129.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 129.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 130.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 130.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 130.
  ) 
 Here is how much of TeX's memory you used:
- 20716 strings out of 495658
- 385776 string characters out of 6187950
- 434117 words of memory out of 5000000
+ 20719 strings out of 495658
+ 385843 string characters out of 6187950
+ 436117 words of memory out of 5000000
  23722 multiletter control sequences out of 15000+600000
  4466 words of font info for 37 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
