@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2014.11.17)  9 APR 2015 20:27
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2014.11.17)  9 APR 2015 21:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -775,14 +775,14 @@ LaTeX Info: Redefining \nameref on input line 103.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(93.95122pt, 387.92422pt, 115.63243pt)
-* v-part:(T,H,B)=(72.26999pt, 751.09564pt, 21.68121pt)
+* v-part:(T,H,B)=(36.135pt, 787.23064pt, 21.68121pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=387.92422pt
-* \textheight=751.09564pt
+* \textheight=787.23064pt
 * \oddsidemargin=21.68123pt
 * \evensidemargin=21.68123pt
-* \topmargin=-37.0pt
+* \topmargin=-73.135pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=12.0pt
@@ -832,109 +832,110 @@ LaTeX Font Info:    Font shape `EU1/Minion-Regular.otf(0)/bx/n' will be
 LaTeX Font Info:    Font shape `EU1/Minion-Regular.otf(0)/m/sc' will be
 (Font)              scaled to size 16.41594pt on input line 4.
 LaTeX Font Info:    Font shape `EU1/Minion-Regular.otf(0)/m/n' will be
-(Font)              scaled to size 10.40245pt on input line 16.
-LaTeX Font Info:    Font shape `EU1/Minion-Regular.otf(0)/m/it' will be
 (Font)              scaled to size 10.40245pt on input line 17.
+LaTeX Font Info:    Font shape `EU1/Minion-Regular.otf(0)/m/it' will be
+(Font)              scaled to size 10.40245pt on input line 18.
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--18
+Underfull \hbox (badness 10000) in paragraph at lines 9--19
 
  []
 
 
-Underfull \hbox (badness 4144) in paragraph at lines 9--18
+Underfull \hbox (badness 7722) in paragraph at lines 9--19
 \EU1/Minion-Regular.otf(0)/m/n/12 Drupal, \EU1/Minion-Regular.otf(0)/m/sc/12 ph
 p\EU1/Minion-Regular.otf(0)/m/n/12 , jQuery, javascript, \EU1/Minion-Regular.ot
 f(0)/m/sc/12 html5\EU1/Minion-Regular.otf(0)/m/n/12 , \EU1/Minion-Regular.otf(0
-)/m/sc/12 css3\EU1/Minion-Regular.otf(0)/m/n/12 ,
+)/m/sc/12 css3\EU1/Minion-Regular.otf(0)/m/n/12 , \EU1/Minion-Regular.otf(0)/m/
+sc/12 sass\EU1/Minion-Regular.otf(0)/m/n/12 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--18
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--18
+Underfull \hbox (badness 10000) in paragraph at lines 9--19
 
  []
 
 
-Underfull \hbox (badness 1742) in paragraph at lines 9--18
+Underfull \hbox (badness 10000) in paragraph at lines 9--19
+
+ []
+
+
+Underfull \hbox (badness 1769) in paragraph at lines 9--19
 \EU1/Minion-Regular.otf(0)/m/it/10.95 This Little Duck is a full-service digita
-l studio based
+l studio based in Dar-
  []
 
 
-Overfull \hbox (1.72519pt too wide) in paragraph at lines 8--27
+Overfull \hbox (1.72519pt too wide) in paragraph at lines 8--28
 [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--39
+Underfull \hbox (badness 10000) in paragraph at lines 32--40
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--39
+Underfull \hbox (badness 10000) in paragraph at lines 32--40
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--39
+Underfull \hbox (badness 10000) in paragraph at lines 32--40
 
  []
 
 
-Underfull \hbox (badness 3364) in paragraph at lines 31--39
+Underfull \hbox (badness 3364) in paragraph at lines 32--40
 \EU1/Minion-Regular.otf(0)/m/it/10.95 FlexiSchools is Australia’s leading provi
 der of online ordering
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--43
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
 
  []
 
 
-Overfull \hbox (1.72519pt too wide) in paragraph at lines 30--44
+Overfull \hbox (1.72519pt too wide) in paragraph at lines 31--45
 [][] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--56
+Underfull \hbox (badness 10000) in paragraph at lines 49--57
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--56
+Underfull \hbox (badness 10000) in paragraph at lines 49--57
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--56
+Underfull \hbox (badness 10000) in paragraph at lines 49--57
 
  []
 
 
-Underfull \hbox (badness 1910) in paragraph at lines 48--56
+Underfull \hbox (badness 1910) in paragraph at lines 49--57
 \EU1/Minion-Regular.otf(0)/m/it/10.95 Sirca’s Mission is to develop and provide
  relevant global data
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--60
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
 
  []
 
 
-Overfull \hbox (1.72519pt too wide) in paragraph at lines 47--61
+Overfull \hbox (1.72519pt too wide) in paragraph at lines 48--62
 [][] [] 
  []
 
 LaTeX Font Info:    Font shape `EU1/Minion-Regular.otf(0)/m/sc' will be
-(Font)              scaled to size 10.40245pt on input line 68.
+(Font)              scaled to size 10.40245pt on input line 69.
 
-Overfull \hbox (1.72519pt too wide) in paragraph at lines 64--78
+Overfull \hbox (1.72519pt too wide) in paragraph at lines 65--79
 [][] [] 
  []
 
@@ -984,7 +985,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 130.
 Here is how much of TeX's memory you used:
  20721 strings out of 495658
  385956 string characters out of 6187950
- 437117 words of memory out of 5000000
+ 437115 words of memory out of 5000000
  23723 multiletter control sequences out of 15000+600000
  4474 words of font info for 38 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
