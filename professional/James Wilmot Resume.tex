@@ -20,7 +20,8 @@
 \usepackage{tabto}
 
 \usepackage{setspace}
-\onehalfspacing
+%\onehalfspacing
+%\singlespacing
 
 \usepackage{verbatim}
 
@@ -72,6 +73,8 @@ bottom=0.3in
 
 % Don't indent paragraphs.
 \setlength\parindent{0em}
+\setlength{\parsep}{2em}
+
 
 % Make lists without bullets and compact spacing
 \renewenvironment{itemize}{
@@ -95,7 +98,7 @@ bottom=0.3in
           SmallCapsFeatures={Letters=SmallCaps}
           ]{Minion-Regular.otf}
 
-\setsansfont[Scale=1.2]{Myriad-CondBold.otf}
+\setsansfont[Scale=1.2]{Myriad-regular.otf}
 
 \begin{document}
 
@@ -105,14 +108,14 @@ bottom=0.3in
 
 %\oldstylenums{0123456789}
 
-\input{sections/education.tex}
 \input{sections/employment.tex}
-\newpage
+\input{sections/education.tex}
+%\newpage
 
-\input{sections/contracts.tex}
-\input{sections/volunteering.tex}
-\input{sections/projects.tex}
-\input{sections/references.tex}
+%\input{sections/contracts.tex}
+%\input{sections/volunteering.tex}
+%\input{sections/projects.tex}
+%\input{sections/references.tex}
 
 
 % Footer
