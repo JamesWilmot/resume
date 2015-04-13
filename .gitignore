@@ -1,1 +1,4 @@
 *.otf
+*.log
+*.aux
+*.out
