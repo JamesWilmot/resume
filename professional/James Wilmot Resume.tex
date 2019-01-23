@@ -15,6 +15,8 @@
 \documentclass[12pt,a4paper]{article}
 
 \usepackage{fontspec}
+\usepackage{xcolor}
+\usepackage{graphicx}
 
 
 \usepackage{hyperref}
@@ -29,6 +31,8 @@
 
 \usepackage{verbatim}
 
+\usepackage{ulem}
+
 \usepackage[compact]{titlesec}
 % Fonts
 %\usepackage[T1]{fontenc}
@@ -39,10 +43,13 @@
 % Set your name here
 \def\name{James Wilmot}
 
+% colours
+\definecolor{dark-gray}{gray}{0.35}
+
 % The following metadata will show up in the PDF properties
 \hypersetup{
 colorlinks = true,
-urlcolor = black,
+urlcolor = dark-gray,
 pdfauthor = {\name},
 pdfkeywords = {resume, physics, linux, James Wilmot},
 pdftitle = {\name: Curriculum Vitae},
@@ -93,6 +100,16 @@ bottom=0.3in
 \end{list}
 }
 
+\makeatother
+
+
+\AtBeginDocument{
+   \let\oldhref=\href
+   \renewcommand\href[2]{\dotuline{\oldhref{#1}{#2}}}
+}
+
+
+
 \setmainfont[
           Numbers={Proportional, OldStyle},
           ItalicFont={MinionPro-It},
@@ -103,6 +120,7 @@ bottom=0.3in
           ]{MinionPro-Regular.otf}
 
 %\setsansfont[Scale=1.2]{Myriad-regular.otf}
+
 
 \begin{document}
 
