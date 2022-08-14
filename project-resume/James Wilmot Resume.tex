@@ -1,0 +1,157 @@
+% James Wilmot --- Resume
+%
+% Based on:
+%
+% Jason R. Blevins - Curriculum Vitae
+%
+% Copyright (C) 2004-2011 Jason R. Blevins
+%
+% You may use use this document as a template to create your own CV
+% and you may redistribute the source code freely.  No attribution is
+% required in any resulting documents.  I do ask that you please leave
+% this notice and the above URL in the source code if you choose to
+% redistribute this file.
+
+\documentclass[12pt,a4paper]{article}
+
+\usepackage{fontspec}
+\usepackage{xcolor}
+\usepackage{graphicx}
+
+
+\usepackage{hyperref}
+\usepackage{geometry}
+\usepackage[super]{nth}
+\usepackage{setspace}
+
+\usepackage{tabto}
+
+\usepackage{setspace}
+%\onehalfspacing
+%\singlespacing
+
+\usepackage{verbatim}
+
+\usepackage{ulem}
+
+\usepackage[compact]{titlesec}
+% Fonts
+%\usepackage[T1]{fontenc}
+%\usepackage[urw-garamond]{mathdesign}
+
+%\titlespacing\section{0pt}{12pt plus 4pt minus 2pt}{-6pt plus 2pt minus 2pt}
+
+% Set your name here
+\def\name{James Wilmot}
+
+% colours
+\definecolor{dark-gray}{gray}{0.35}
+
+% The following metadata will show up in the PDF properties
+\hypersetup{
+colorlinks = true,
+urlcolor = dark-gray,
+pdfauthor = {\name},
+pdfkeywords = {resume, physics, linux, James Wilmot},
+pdftitle = {\name: resume},
+pdfsubject = {resume},
+pdfpagemode = UseNone
+}
+
+\geometry{
+%body={6.0in, 9.3in},
+left=1.2in,
+right=1.3in,
+top=0.8in,
+bottom=0.3in
+}
+
+\def \mainboxwidth {0.7} 
+\def \detailboxwidth {0.3} 
+
+% Customize page headers
+\pagestyle{myheadings}
+\markright{\name}
+\thispagestyle{empty}
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\Large}
+\subsectionfont{\rmfamily\mdseries\itshape\large}
+
+% Other possible font commands include:
+% \ttfamily for teletype,
+% \sffamily for sans serif,
+% \bfseries for bold,
+% \scshape for small caps,
+% \normalsize, \large, \Large, \LARGE sizes.
+
+% Don't indent paragraphs.
+\setlength\parindent{0em}
+\setlength{\parsep}{2em}
+
+
+% Make lists without bullets and compact spacing
+\renewenvironment{itemize}{
+\begin{list}{}{
+\setlength{\leftmargin}{1.5em}
+\setlength{\rightmargin}{9.8em}
+\setlength{\itemsep}{0.45em}
+\setlength{\parskip}{-0.45em}
+\setlength{\parsep}{-0.10em}
+}
+}{
+\end{list}
+}
+
+\makeatother
+
+
+\AtBeginDocument{
+   \let\oldhref=\href
+   \renewcommand\href[2]{\dotuline{\oldhref{#1}{#2}}}
+}
+
+
+
+\setmainfont[
+          Numbers={Proportional, OldStyle},
+          ItalicFont={MinionPro-It},
+          BoldFont={MinionPro-Bold},
+          Ligatures=TeX,
+          Scale=0.95,
+          SmallCapsFeatures={Letters=SmallCaps}
+          ]{MinionPro-Regular.otf}
+
+%\setsansfont[Scale=1.2]{Myriad-regular.otf}
+
+
+\begin{document}
+
+
+\vspace{-2in}
+\input{sections/header.tex}
+
+%\oldstylenums{0123456789}
+
+\input{sections/projects.tex}
+\input{sections/employment.tex}
+\input{sections/miscellaneous.tex}
+\input{sections/education.tex}
+%\newpage
+
+%\input{sections/contracts.tex}
+%\input{sections/volunteering.tex}
+%\input{sections/projects.tex}
+%\input{sections/references.tex}
+
+
+% Footer
+\begin{center}
+\begin{small}
+Last updated: \today
+\end{small}
+\end{center}
+
+
+\end{document}
