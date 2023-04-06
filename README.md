@@ -18,7 +18,7 @@ direnv: loading .../JamesWilmot-Resume/.envrc
 direnv: using flake .
 ```
 
-First have to allow ```direnv``` for the project:
+First have to allow ```direnv```:
 ```
 direnv allow
 ```
