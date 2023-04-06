@@ -17,10 +17,7 @@
     in {
       devShells.default = pkgs.mkShell {
         buildInputs = [
-          pkgs.xetex
-          pkgs.xetex-def
-          pkgs.fontspec
-          pkgs.scheme-basic
+          pkgs.texlive.combined.scheme-full
         ];
       };
     });
