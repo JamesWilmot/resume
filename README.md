@@ -2,7 +2,7 @@
 
 Project containing
 [professional](https://github.com/JamesWilmot/JamesWilmot-Resume/raw/master/professional/James%20Wilmot%20Resume.pdf) and 
-[project resumé](https://github.com/JamesWilmot/JamesWilmot-Resume/raw/master/project-resume/James%20Wilmot%20Resume.pdf) for James Wilmot.
+[project resumé](https://github.com/JamesWilmot/JamesWilmot-Resume/raw/master/project-resume/James%20Wilmot%20Project%20Resume.pdf) for James Wilmot.
 
 Built with LaTeX.
 
