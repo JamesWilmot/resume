@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-xelatex "James Wilmot Resume.tex"
+xelatex "James Wilmot Project Resume.tex"
