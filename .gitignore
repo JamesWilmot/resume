@@ -24,3 +24,6 @@ tags
 [._]*.un~
 
 # fonts
+
+# direnv
+/.direnv/
