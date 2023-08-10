@@ -1,8 +1,8 @@
 # JamesWilmot-Resume
 
 Project containing
-[professional](https://github.com/JamesWilmot/JamesWilmot-Resume/raw/master/professional/James%20Wilmot%20Resume.pdf) and 
-[project resumé](https://github.com/JamesWilmot/JamesWilmot-Resume/raw/master/project-resume/James%20Wilmot%20Project%20Resume.pdf) for James Wilmot.
+[professional](https://raw.githubusercontent.com/JamesWilmot/JamesWilmot-Resume/master/professional/James%20Wilmot%20Resume.pdf) and 
+[project resumé](https://raw.githubusercontent.com/JamesWilmot/JamesWilmot-Resume/master/project-resume/James%20Wilmot%20Project%20Resume.pdf) for James Wilmot.
 
 Built with LaTeX.
 
@@ -48,7 +48,7 @@ Then navigate in-browser to: ```localhost:6419```
 ## Downloads
 
 <img src=".assets/pdf.svg" height="20px"></img>
-[James Wilmot: professional resumé](https://github.com/JamesWilmot/JamesWilmot-Resume/raw/master/professional/James%20Wilmot%20Resume.pdf)
+[James Wilmot: professional resumé](https://raw.githubusercontent.com/JamesWilmot/JamesWilmot-Resume/master/professional/James%20Wilmot%20Resume.pdf)
 
 <img src=".assets/pdf.svg" height="20px"></img>
-[James Wilmot: project resumé](https://github.com/JamesWilmot/JamesWilmot-Resume/raw/master/project-resume/James%20Wilmot%20Project%20Resume.pdf)
+[James Wilmot: project resumé](https://raw.githubusercontent.com/JamesWilmot/JamesWilmot-Resume/master/project-resume/James%20Wilmot%20Project%20Resume.pdf)
