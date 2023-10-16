@@ -1,4 +1,4 @@
-# JamesWilmot-Resume
+# @JamesWilmot/resume
 
 Project containing
 [professional](https://raw.githubusercontent.com/JamesWilmot/JamesWilmot-Resume/master/professional/James%20Wilmot%20Resume.pdf) and 
