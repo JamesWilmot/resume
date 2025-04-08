@@ -14,16 +14,13 @@
       pkgs = import nixpkgs {
         inherit system;
       };
-      pkgsUnstable = import <nixpkgs-unstable> {
-        inherit system;
-      };
     in {
       devShells.default = pkgs.mkShell {
         buildInputs = [
           #pkgs.texlive.combined.scheme-full
           #pkgs.python310
           #pkgs.python310.pkgs.grip
-          pkgsUnstable.typst
+          pkgs.typst
         ];
       };
     });
