@@ -9,12 +9,13 @@
   Canberra Makerspace is a community run multi-use workshop and meeting space in Giralang.
   ]
   
+  #link("https://canberramaker.space")[canberramaker.space]
+  
   Responsibilities:
-
   - Workshop management, maintenance & organisation
   - Insurance obligations and reporting
   - Incorporated association reporting requirements
-  - Designed, implemented and deployed website (v2.0 coming soon!)
+  - Designed, implemented and deployed website
 
   *Y's-buys* #h(1fr) Aug---Mar 2020 \
   Volunteer shop attendant #h(1fr) Belconnen ACT \
