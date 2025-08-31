@@ -2,7 +2,7 @@
 
 == Abridged work history
 
-#columns(2)[
+#columns(2, gutter: 6%)[
   *Family farm* #h(1fr) 2020---2023 \
   Harvest operations hand \
 
