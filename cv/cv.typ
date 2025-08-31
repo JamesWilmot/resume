@@ -4,16 +4,17 @@
 
 // Uncomment the following lines to adjust the size of text
 // The recommend resume text size is from `10pt` to `12pt`
-// #set text(
-//   size: 12pt,
-// )
+#set text(
+  size: 12pt,
+)
 
 // Feel free to change the margin below to best fit your own CV
 #set page(
-  margin: (x: 1.5cm, y: 1.8cm),
+  margin: (x: 2cm, y: 2cm),
   numbering: "— 1 —",
 )
 
+/*
 #set page(
   header: context {
     if counter(page).get().first() > 1 [
@@ -22,6 +23,7 @@
     ]
   },
 )
+*/
 
 
 #set par(justify: true)
@@ -30,9 +32,10 @@
 
 #include "preamble.typ"
 
-#include "education.typ"
 
-#include "work.typ"
+
+// #include "education.typ"
+#include "professional.typ"
 
 #pagebreak()
 
