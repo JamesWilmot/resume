@@ -5,15 +5,20 @@
 #columns(2, gutter: 6%)[
   *UNSW Sydney* #h(1fr) Jun 2016–#emph[present]\
   Research software engineer \
+  
+  #link("https://opendata.studio")[opendata.studio]: a software toolbox that
+  makes publishing reproducible, interactive workflows simple
 
   #link("http://app.supramolecular.org/bindfit/")[supramolecular.org bindfit]: a web application for binding 
   constant fitting.
 
-  #link("https://opendata.studio")[opendata.studio]: a software toolbox that
-  makes publishing reproducible, interactive worklflows simple
+  CSIRO ON Prime 2025
+  - Performed 60 customer interviews
+  - Presented what we learnt and our insights at showcase
+  - Won facilitator's prize for our cohort
 
   eResearch 2024
-  - Session chair: Research Data Managed and Published
+  - _Session chair_: Research Data Managed and Published
   - BoF workshop: Data and metadata standards for web publication of research data
   - Lightning talk: Publishing research data with Frictionless data packages for reproducibility
   - Poster: Case study: publishing an interactive, reproducible data workflow using Frictionless data standards
@@ -26,7 +31,7 @@
   - Talk: Introducing opendata.fit: a FAIR data analysis and publication platform
   - Poster: Introducing opendata.fit: a FAIR data analysis and publication platform
 
-
+  #colbreak()
   *Biotext* #h(1fr) Jul 2017–Jan 2018\
   Web developer \
 
@@ -56,6 +61,7 @@
 
   Lead team which scaled to 5 developers, liased with senior GOLDOC stakeholders, gitflow release management and feature integration
 
+  /*
   *This Little Duck* #h(1fr) Sep 2014–Mar 2015 \
   Web developer \
 
@@ -64,6 +70,7 @@
   ]
 
   Worked on (now superseded) UNSW Newsroom and the UNSW Art & Design website
+  */
   
   *NICTA* #h(1fr) Nov 2011–Feb 2013 \
   Research engineer \
